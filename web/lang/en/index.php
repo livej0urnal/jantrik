@@ -1,0 +1,23 @@
+<?php
+return [
+    'Best seller products' => 'Best seller products',
+    'Top products' => 'Top products',
+    'New arrivals' => 'New arrivals',
+    'Featured' => 'Featured',
+    'Top rated' => 'Top rated',
+    'out of stock' => 'out of stock',
+    'in stock' => 'in stock',
+    'position' => 'position',
+    'Add to cart' => 'Add to cart',
+    'Add to wishlist' => 'Add to wishlist',
+    'Add to compare' => 'Add to compare',
+    'Details' => 'Details' ,
+    'Reviews' => 'Reviews',
+    'Related products' => 'Related products',
+    'No products in this category' => 'No products in this category',
+    'Back to home' => 'Back to home',
+    'Manufacturer' => 'Manufacturer',
+    'Price' => 'Price' ,
+    'Top sell' => 'Top sell',
+    'Search Your Product' => 'Search Your Product',
+];

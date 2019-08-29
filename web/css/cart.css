@@ -1,0 +1,107 @@
+.right-side-cart-area .cart-content .cart-list .single-cart-item .product-image .cart-item-desc .badge{
+    background: none;
+}
+.single-product-wrapper .product-description h6{
+    font-size: 13px;
+}
+.product-topbar{
+    float: right;
+}
+#scrollUp {
+    background-color: #0315ff;
+}
+.footer_area{
+    padding-bottom: 30px;
+}
+.section-wrap{
+    padding: 80px 0;
+    overflow: hidden;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 620px;
+}
+.page-404 h1 {
+    font-size: 200px;
+    line-height: 1.2;
+    font-family: "Maven Pro", sans-serif;
+    margin-top: 0;
+    color: #444444;
+    font-weight: 400;
+    line-height: 1.2;
+}
+.single-product .quantity.buttons_added {
+    float: left;
+}
+
+.quantity.buttons_added {
+    white-space: nowrap;
+    position: relative;
+    display: inline-block;
+    margin-left: 30px;
+    visibility: hidden;
+}
+.quantity.buttons_added .minus {
+    border-right: 0;
+}
+
+.quantity.buttons_added .minus, .quantity.buttons_added .plus {
+    width: 32px;
+    height: 32px;
+    background-color: #fff;
+    border: 1px solid #ebebeb;
+    font-size: 22px;
+    float: left;
+}
+.product-actions li .buttons_added input {
+    width: 50px !important;
+    height: 50px !important;
+    line-height: 50px;
+}
+.quantity .input-text.qty {
+    width: 55px;
+    height: 60px;
+    border: 1px solid #ebebeb;
+    padding: 0;
+    background: #fff;
+    margin-bottom: 0;
+    text-align: center;
+    float: left;
+    line-height: 1;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+}
+
+.product-actions li .buttons_added input {
+    width: 50px !important;
+    height: 50px !important;
+    line-height: 50px;
+}
+.quantity.buttons_added .minus, .quantity.buttons_added .plus {
+    width: 50px;
+    height: 60px;
+    background-color: #fff;
+    border: 1px solid #ebebeb;
+    font-size: 22px;
+    float: left;
+}
+
+.product-actions li .buttons_added input {
+    width: 50px !important;
+    height: 50px !important;
+    line-height: 50px;
+}
+.add-to-cart2 {
+    outline: none;
+}
+.empty-cart {
+    text-align: center;
+    width: 100%;
+    margin-top: 60%;
+    font-size: 21px;
+}
+.main-cart-box:hover{
+    cursor: pointer;
+}
+.clear{
+    min-height:30px;
+}
